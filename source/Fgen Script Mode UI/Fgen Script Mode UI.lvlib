@@ -4,5 +4,31 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">620789760</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Script" Type="Folder">
+			<Item Name="Add Script.vi" Type="VI" URL="../SubVIs/Add Script.vi"/>
+			<Item Name="Initialize Script UI.vi" Type="VI" URL="../SubVIs/Initialize Script UI.vi"/>
+			<Item Name="Remove Script.vi" Type="VI" URL="../SubVIs/Remove Script.vi"/>
+			<Item Name="Update Script Body.vi" Type="VI" URL="../SubVIs/Update Script Body.vi"/>
+			<Item Name="Update Selected Script.vi" Type="VI" URL="../SubVIs/Update Selected Script.vi"/>
+		</Item>
+		<Item Name="Waveform" Type="Folder">
+			<Item Name="Add Waveform.vi" Type="VI" URL="../SubVIs/Add Waveform.vi"/>
+			<Item Name="Change Waveform.vi" Type="VI" URL="../SubVIs/Change Waveform.vi"/>
+			<Item Name="Get Wfm Names and Suggest New Name.vi" Type="VI" URL="../SubVIs/Get Wfm Names and Suggest New Name.vi"/>
+			<Item Name="Initialize Waveform UI.vi" Type="VI" URL="../SubVIs/Initialize Waveform UI.vi"/>
+			<Item Name="Remove Waveform.vi" Type="VI" URL="../SubVIs/Remove Waveform.vi"/>
+			<Item Name="Update Selected Waveform UI.vi" Type="VI" URL="../SubVIs/Update Selected Waveform UI.vi"/>
+		</Item>
+		<Item Name="Configure Trigger Settings Dialog.vi" Type="VI" URL="../SubVIs/Configure Trigger Settings Dialog.vi"/>
+	</Item>
+	<Item Name="Typedef" Type="Folder">
+		<Item Name="Script Meas Config Ctrl Ref.ctl" Type="VI" URL="../Typedef/Script Meas Config Ctrl Ref.ctl"/>
+		<Item Name="Script UI Ctrl Ref.ctl" Type="VI" URL="../Typedef/Script UI Ctrl Ref.ctl"/>
+		<Item Name="Trigger Settings.ctl" Type="VI" URL="../Typedef/Trigger Settings.ctl"/>
+		<Item Name="Waveform Meas Config Ctrl Ref.ctl" Type="VI" URL="../Typedef/Waveform Meas Config Ctrl Ref.ctl"/>
+		<Item Name="Waveforms UI Ctrl Ref.ctl" Type="VI" URL="../Typedef/Waveforms UI Ctrl Ref.ctl"/>
+		<Item Name="Wfm Typedef.ctl" Type="VI" URL="../Typedef/Wfm Typedef.ctl"/>
+	</Item>
 	<Item Name="Measurement UI.vi" Type="VI" URL="../Measurement UI.vi"/>
 </Library>
