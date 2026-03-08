@@ -1,4 +1,4 @@
-# NI FGEN Script Mode Plugin
+# NI FGEN Script Mode Plugin (Work In Progress)
 ## Overview
 
 This InstrumentStudio measurement plugin runs the NI FGEN in the [script mode](https://www.ni.com/docs/en-US/bundle/ni-fgen/page/script-mode.html).  A script is a series of instructions that indicates how waveforms saved in the onboard memory should be outputed. To learn more about all the script instructions, please find out [here](https://www.ni.com/docs/en-US/bundle/ni-rfsg/page/scripting-instructions.html).
