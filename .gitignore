@@ -17,4 +17,4 @@ ProcessingStage/
 # Executables
 *.exe
 *.tdms_index
-/source/FGEN Arb Sequence Mode/BuiltUI
+/source/Fgen Script Mode/BuiltUI
