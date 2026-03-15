@@ -33,6 +33,7 @@
 				<Property Name="Bld_postActionVIID" Type="Ref">/My Computer/Fgen Script Mode.lvclass/Framework Defined/Build Assets/Post-Build Action.vi</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{59062EE5-510D-43DD-B5B5-66B0EABF1E6F}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">FgenScriptMode.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Fgen Script Mode/FgenScriptMode.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
@@ -40,7 +41,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Fgen Script Mode/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2DA34CCC-4C20-4A19-BD8C-117ED644916A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2CC3D785-71AB-44A9-A105-72FDA5703220}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Fgen Script Mode.lvclass/Run Service.vi</Property>
@@ -70,6 +71,7 @@
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{9DBCD40E-DC2B-48B9-B2C7-D6B6E1E325FC}</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
+				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Fgen Script Mode UI.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Fgen Script Mode/BuiltUI/Fgen Script Mode UI.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -80,7 +82,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{2DA34CCC-4C20-4A19-BD8C-117ED644916A}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2CC3D785-71AB-44A9-A105-72FDA5703220}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Fgen Script Mode UI.lvlib</Property>
