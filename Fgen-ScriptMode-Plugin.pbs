@@ -255,7 +255,7 @@
             <CustomExecutes />
             <Description>An Instrument Studio Plugin that running NI FGEN with script mode</Description>
             <DisplayName>Fgen-Scriptmode-Plugin</DisplayName>
-            <FileName>fgen-scriptmode-plugin_1.0.1.1_windows_x64.nipkg</FileName>
+            <FileName>fgen-scriptmode-plugin_1.0.2.0_windows_x64.nipkg</FileName>
             <Homepage>https://github.com/NI-Measurement-Plug-Ins/Fgen-ScriptMode-Plugin</Homepage>
             <MaintainerEmail>email@mycompany.com</MaintainerEmail>
             <MaintainerName>GitHub Community</MaintainerName>
@@ -272,11 +272,11 @@
                 </PackageRelationship>
             </PackageRelationships>
             <ProductName>MyProduct</ProductName>
-            <ReleaseNotes>Beta release: Bypass FGEN gRPC API to initialize FGEN. Minor fix Add Script dialog issue, Selected Script/Wfm update and display Actual Sample Rate</ReleaseNotes>
+            <ReleaseNotes>Minor fix in the tool tip of button</ReleaseNotes>
             <Section>Add-Ons</Section>
             <StoreProduct>true</StoreProduct>
             <Synopsis>fgen-scriptmode-plugin</Synopsis>
-            <Version>1.0.1.1</Version>
+            <Version>1.0.2.0</Version>
         </Distribution>
     </Distributions>
     <Feeds />
